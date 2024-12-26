@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Dicoding Story</string>
+    <string name="btn_text_register">Register</string>
+    <string name="btn_text_login">Login</string>
+    <string name="title_register_page">Complete your personal data below, please!</string>
+    <string name="message_login_page">Please login first</string>
+    <string name="title_login_page">Lets share your story now!</string>
+    <string name="logout">Logout</string>
+    <string name="empty_text">No data</string>
+    <string name="invalid_email">Invalid email</string>
+    <string name="invalid_password">The password must be at least 8 characters long.</string>
+    <string name="login_success">Login success</string>
+    <string name="upload_error">Please pick the image file first.</string>
+    <string name="camera_button_text">Camera</string>
+    <string name="gallery_button_text">Gallery</string>
+    <string name="description_text_input">Description</string>
+    <string name="upload_button_text">Upload</string>
+    <string name="title_story">Title</string>
+    <string name="description_story">Description</string>
+    <string name="gallery_error">Image Failed</string>
+    <string name="hint_email_input">Enter your email</string>
+    <string name="hint_password_input">Enter your password</string>
+    <string name="hint_name_input">Enter your name</string>
+    <string name="direct_register">Dont have an account? Register Here!</string>
+    <string name="direct_login">Already have an account? Login Here!</string>
+    <string name="actionbar_upload_story">Upload Story</string>
+
+    <string name="content_upload_button">Button to add a story!</string>
+    <string name="content_image_detail_story">Image for the story details.</string>
+    <string name="content_story_upload_img">Image to upload a picture.</string>
+</resources>
